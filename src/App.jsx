@@ -72,7 +72,7 @@ const experience = [
 ];
 
 const skills = {
-  'RPA & Automation': [
+  'Automation & Workflow Systems': [
     'Microsoft Power Automate',
     'Power Apps',
     'Workflow Orchestration',
@@ -80,7 +80,7 @@ const skills = {
     'Low-Code Development',
     'Robotic Process Automation',
   ],
-  'Business Intelligence': [
+  'Business Intelligence & Analytics': [
     'Power BI',
     'Dataverse',
     'Data Visualization',
@@ -88,7 +88,7 @@ const skills = {
     'AI-Assisted Monitoring',
     'KPI Dashboards',
   ],
-  'Programming & Data': [
+  'Programming, Data & AI': [
     'Python',
     'SQL',
     'JavaScript',
@@ -126,17 +126,15 @@ function App() {
       </header>
 
       <section className="hero" id="home">
-        <p className="eyebrow">
-          Power Platform & RPA - Available for Opportunities
-        </p>
+        <p className="eyebrow">Software Engineering - Data Science - AI</p>
         <h1>
           Prathmesh
           <span>Baviskar</span>
         </h1>
         <p className="hero-copy">
-          Power Platform & RPA professional with 3+ years building enterprise
-          workflow automation, low-code applications, and business intelligence
-          systems that reduce manual processing by 40%+.
+          Software engineer and data science graduate student with 3+ years
+          building production AI systems, full-stack applications, and
+          analytics workflows that improve operational efficiency at scale.
         </p>
         <div className="meta-row">
           <span>Dallas, TX</span>
@@ -224,11 +222,10 @@ function App() {
               Building systems that make <span>complexity disappear.</span>
             </h2>
             <p>
-              I&apos;m a Power Platform & RPA professional currently pursuing my
-              M.S. in Computer Science (Data Science specialization) at UT
-              Dallas. My work spans the full automation stack from low-code
-              Power Apps and Dataverse integration to Python-based diagnostic
-              tools and machine learning pipelines.
+              I&apos;m a software engineer currently pursuing my M.S. in Computer
+              Science (Data Science specialization) at UT Dallas. My work spans
+              full-stack application development, data engineering, and machine
+              learning-driven systems for real-world operations.
             </p>
             <p>
               Before grad school, I spent nearly three years at Agnel Robotics
@@ -237,9 +234,9 @@ function App() {
               informs how I approach every enterprise workflow I touch today.
             </p>
             <p>
-              I&apos;m at my best when engineering rigor meets business context
-              identifying the exact friction points in a process and eliminating
-              them with the right level of automation.
+              I&apos;m at my best when engineering rigor meets business context,
+              identifying high-impact bottlenecks and solving them with clean,
+              maintainable systems and measurable outcomes.
             </p>
           </div>
           <aside className="about-cards">
@@ -307,9 +304,9 @@ function App() {
               Let&apos;s build <span>something.</span>
             </h2>
             <p>
-              Open to full-time roles, contracts, and consulting in Power
-              Platform, RPA, and full-stack engineering. Based in Dallas, TX -
-              open to remote.
+              Open to full-time roles, contracts, and consulting across
+              software engineering, data science, and AI product development.
+              Based in Dallas, TX.
             </p>
             <ul className="contact-links">
               <li>
