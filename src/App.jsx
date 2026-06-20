@@ -133,8 +133,8 @@ function App() {
         </h1>
         <p className="hero-copy">
           Software engineer and data science graduate student with 3+ years
-          building production AI systems, full-stack applications, and
-          analytics workflows that improve operational efficiency at scale.
+          building production AI systems, full-stack applications, and analytics
+          workflows that improve operational efficiency at scale.
         </p>
         <div className="meta-row">
           <span>Dallas, TX</span>
@@ -222,7 +222,7 @@ function App() {
               Building systems that make <span>complexity disappear.</span>
             </h2>
             <p>
-              I&apos;m a software engineer currently pursuing my M.S. in Computer
+              I&apos;m a software engineer graduated with my M.S. in Computer
               Science (Data Science specialization) at UT Dallas. My work spans
               full-stack application development, data engineering, and machine
               learning-driven systems for real-world operations.
@@ -304,9 +304,9 @@ function App() {
               Let&apos;s build <span>something.</span>
             </h2>
             <p>
-              Open to full-time roles, contracts, and consulting across
-              software engineering, data science, and AI product development.
-              Based in Dallas, TX.
+              Open to full-time roles, contracts, and consulting across software
+              engineering, data science, and AI product development. Based in
+              Dallas, TX.
             </p>
             <ul className="contact-links">
               <li>
