@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Geist+Mono:wght@400;500;700&family=Outfit:wght@400;500;600&display=swap');
+
+:root {
+  --bg: #0c0c0c;
+  --panel: #0c0c0c;
+  --panel-2: #141414;
+  --section-a: #0c0c0c;
+  --section-b: #141414;
+  --text-main: #e6e6e3;
+  --text-muted: #8b908b;
+  --text-dim: #6a726c;
+  --accent: #b7ff38;
+  --edge: #151a16;
+  --edge-faint: #131814;
+
+  --sans: 'Outfit', 'Segoe UI', sans-serif;
+  --serif: 'Fraunces', Georgia, serif;
+  --mono: 'Geist Mono', Consolas, monospace;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: var(--text-muted);
+  font: 400 1rem/1.45 var(--sans);
+  background:
+    radial-gradient(
+      980px 500px at 50% 0%,
+      rgba(183, 255, 56, 0.2),
+      transparent 70%
+    ),
+    var(--bg);
+  background-attachment: fixed;
+  filter: drop-shadow(0 0 40px rgba(183, 255, 56, 0.1));
+}
+
+#root {
+  width: min(1420px, 100% - 1rem);
+  margin-inline: auto;
+  min-height: 100svh;
+  padding-inline: clamp(0.8rem, 2.1vw, 1.8rem);
+}
+
+a,
+button,
+input,
+textarea {
+  font: inherit;
+}
